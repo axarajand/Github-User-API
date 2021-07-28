@@ -1,4 +1,4 @@
-Aplikasi untuk mencari dan menampilkan list dan detail dari user Github
+**Aplikasi untuk mencari dan menampilkan list dan detail dari user Github.**
 
 Navigasi perpindahan halaman aplikasi menggunakan Intent.
 
