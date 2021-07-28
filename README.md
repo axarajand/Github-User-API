@@ -1,3 +1,5 @@
+Aplikasi untuk mencari dan menampilkan list dan detail dari user Github
+
 Navigasi perpindahan halaman aplikasi menggunakan Intent.
 
 Menerapkan Parcelable untuk transaksi data antar Activity.
