@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set_language">Indonesia</string>
+    <string name="app_name">Consumer Github</string>
+    <string name="title_search">Pencarian Pengguna Github</string>
+    <string name="title_detail">Detail Pengguna</string>
+    <string name="title_favorite_user">Pengguna Favorit</string>
+    <string name="title_settings">Pengaturan</string>
+    <string name="insert_username">Masukan Nama Pengguna</string>
+    <string name="search">Cari</string>
+    <string name="unknown_search">Pengguna yang \nDicari Tidak Ada</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="follower">Pengikut</string>
+    <string name="unknown_follower">Belum Ada Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="unknown_following">Belum Mengikuti</string>
+    <string name="name">Nama</string>
+    <string name="default_name">{Nama Tidak Diketahui}</string>
+    <string name="location">Lokasi</string>
+    <string name="default_location">{Lokasi Tidak Diketahui}</string>
+    <string name="company">Perusahaan</string>
+    <string name="default_company">{Perusahaan Tidak Diketahui}</string>
+    <string name="repository">Repositori : %1$s</string>
+    <string name="language">Pilih Bahasa</string>
+    <string name="favorite_icon">Ikon Favorit</string>
+    <string name="success_insert">%1$s berhasil ditambahkan ke pengguna favorit!</string>
+    <string name="failed_insert">%1$s gagal ditambahkan ke pengguna favorit!</string>
+    <string name="success_delete">%1$s berhasil dihapus dari pengguna favorit!</string>
+    <string name="failed_delete">%1$s gagal dihapus dari pengguna favorit!</string>
+    <string name="favorite_user">User Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="reminder">Pengingat Jam 09.00 AM</string>
+    <string name="attachment_summary_on">Pengingat dihidupkan</string>
+    <string name="attachment_summary_off">Pengingat dimatikan</string>
+    <string name="title_reminder">Pengingat</string>
+    <string name="set_time">9:00</string>
+    <string name="mess_reminder">Ayo temukan pengguna populer di Github!</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set_language">English</string>
+    <string name="app_name">GithubUserAPI</string>
+    <string name="title_search">Github User\'s Search</string>
+    <string name="title_detail">User Detail</string>
+    <string name="title_favorite_user">Favorite User\'s</string>
+    <string name="title_settings">Settings</string>
+    <string name="insert_username">Insert Username</string>
+    <string name="search">Search</string>
+    <string name="unknown_search">User Doesn\'t Exist</string>
+    <string name="username">Username</string>
+    <string name="follower">Follower</string>
+    <string name="unknown_follower">There Is No Follower</string>
+    <string name="following">Following</string>
+    <string name="unknown_following">Hasn\'t Following</string>
+    <string name="name">Name</string>
+    <string name="default_name">{Unknown Name}</string>
+    <string name="location">Location</string>
+    <string name="default_location">{Unknown Location}</string>
+    <string name="company">Company</string>
+    <string name="default_company">{Unknown Company}</string>
+    <string name="repository">Repository : %1$s</string>
+    <string name="language">Select Language</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="success_insert">%1$s successfully added to favorite user!</string>
+    <string name="failed_insert">%1$s failed to be added to favorite user!</string>
+    <string name="success_delete">%1$s successfully removed from favorite user!</string>
+    <string name="failed_delete">%1$s failed to delete from favorite user!</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="settings">Settings</string>
+    <string name="reminder">Reminder at 09.00 AM</string>
+    <string name="attachment_summary_on">Reminder is turned on</string>
+    <string name="attachment_summary_off">Reminder is turned off</string>
+    <string name="title_reminder">Reminder</string>
+    <string name="set_time">9:00</string>
+    <string name="mess_reminder">Let\'s find popular user on Github!</string>
+    <string name="no_data">There is no data</string>
+</resources>

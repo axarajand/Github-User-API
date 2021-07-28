@@ -1,0 +1,19 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/title_settings">
+        <SwitchPreference
+            app:icon="@drawable/ic_baseline_notifications_24"
+            app:key="@string/reminder"
+            app:title="@string/reminder"
+            app:summaryOff="@string/attachment_summary_off"
+            app:summaryOn="@string/attachment_summary_on" />
+        <Preference
+            android:key="@string/language"
+            app:icon="@drawable/ic_baseline_g_translate_24"
+            app:title="@string/language"
+            app:summary="@string/set_language">
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>
